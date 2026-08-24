@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.py[cod]
+*.wav
+.streamlit/secrets.toml
+.venv/
+venv/
+env/
